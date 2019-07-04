@@ -1,0 +1,58 @@
+
+/* *{
+	text-align: right;
+}*/
+
+
+html {
+	
+	background-image: url(binary.png); /* for background images */
+	background-repeat: repeat;         /* Repeats image in background */
+
+}
+
+h2{
+	/*background-image:url(binary.png); */
+	color: rgb(44,42,41);
+	text-align: center;
+	border: 5px solid rgba(120,28, 46,1); /* Adds opacity to the color */
+}
+
+p{
+	color: pink;
+
+}
+
+p{
+	color: green;
+}
+
+li{
+
+	list-style: none;
+	display: inline-block;
+}
+
+/*
+.webtext
+{
+	border: 5px dashed green;
+}
+
+*/
+
+/*
+.active {
+	color: red;
+}*/
+
+/*
+#div1
+{
+	background: rgba(0,0,255,0.2);
+}*/
+
+/*#div2
+{
+
+}*/
