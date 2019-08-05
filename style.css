@@ -38,35 +38,16 @@ li{
 	display: inline-block;
 }
 
-table, td, tr {
+table, td, tr
+{
     border-style: groove;
     border-width: 3px;
     border-collapse: collapse;
     border-color: red;
-    align: center;
+    background-color: gold;
     
 }
 
-/*
-.webtext
-{
-	border: 5px dashed green;
+footer {
+    display: block;
 }
-
-*/
-
-/*
-.active {
-	color: red;
-}*/
-
-/*
-#div1
-{
-	background: rgba(0,0,255,0.2);
-}*/
-
-/*#div2
-{
-
-}*/
