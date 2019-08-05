@@ -11,26 +11,40 @@ html {
 
 }
 
-h2{
+h1{
 	/*background-image:url(binary.png); */
-	color: rgb(44,42,41);
 	text-align: center;
-	border: 5px solid rgba(120,28, 46,1); /* Adds opacity to the color */
 }
 
-p{
-	color: pink;
 
+p{
+    text-align: center;
 }
 
-p{
-	color: green;
+hr
+{
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
 }
 
 li{
 
 	list-style: none;
 	display: inline-block;
+}
+
+table, td, tr {
+    border-style: groove;
+    border-width: 3px;
+    border-collapse: collapse;
+    border-color: red;
+    align: center;
+    
 }
 
 /*
