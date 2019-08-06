@@ -5,6 +5,23 @@
 // 
 */
 
+div {
+ 
+    margin-right: 350px;
+    margin-left: 350px;
+    text-align: center;
+   
+}
+
+
+nav {
+
+    border: 3px groove red;
+    background: gold;
+    margin-right: 400px;
+    margin-left: 400px;
+}
+
 html {
 	
 	background-image: url(binary.png); /* for background images */
