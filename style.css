@@ -9,7 +9,6 @@ div {
  
     margin-right: 350px;
     margin-left: 350px;
-    text-align: center;
    
 }
 
@@ -39,7 +38,8 @@ html {
 
 }
 
-h1{
+h1, h2, h3
+{
 	/*background-image:url(binary.png); */
 	text-align: center;
 }
