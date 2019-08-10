@@ -13,6 +13,18 @@ div {
 }
 
 
+.course-ncomp
+{
+    text-color: blue;
+}
+
+
+.course-comp
+{
+    text-color: red;
+}
+
+
 .class-desc
 {
     border-style: groove;
